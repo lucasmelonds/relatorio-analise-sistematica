@@ -104,7 +104,7 @@ O relatório apresenta as diretrizes contempladas e violadas identificadas duran
   </tr>
 
   <tr>
-    <td colspan="2"><p>AF8 - Prevenção de erros</p></td>
+    <td colspan="2"><p>AF8 - Cancelamento de ações</p></td>
     <td colspan="2"><p>Necessário rever</p></td>
     <td colspan="2"><p>Na criação de cronogramas</p></td>
   </tr>
